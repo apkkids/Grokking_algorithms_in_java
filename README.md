@@ -17,4 +17,9 @@ chapter03:递归算法，CountDown和Factorial
 chapter04:Quick Sort，书上的例子用QuickSort实现，它对List排序，中间产生了很多临时List对象，效率较低，
           因此还提供了为原生数组排序的QuickSortForArray算法，不产生临时对象，效率较高
           
+chapter05:Hash table simple example.
+
+chapter06:广度优先搜索 breadth-first search
+
+
           
