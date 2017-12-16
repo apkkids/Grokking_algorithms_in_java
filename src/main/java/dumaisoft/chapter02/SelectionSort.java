@@ -16,7 +16,7 @@ public class SelectionSort {
 
     private static List<Integer> selectionSort(List<Integer> list) {
         List<Integer> newArr = new LinkedList<Integer>();
-        while (!list.isEmpty()){
+        while (!list.isEmpty()) {
             int smallest_index = findSmallest(list);
             newArr.add(list.remove(smallest_index));
         }
