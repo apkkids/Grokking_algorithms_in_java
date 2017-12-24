@@ -28,3 +28,5 @@ chapter08:Greed,贪心算法解决集合覆盖问题
 
 chapter09:FindLongestPublicSubString,使用动态规划算来寻找"最长公共子序列"和"最长公共子串"
 
+chapter10:KNN，使用knn算法来预测面包店的销量（本算法书中并无代码）
+
